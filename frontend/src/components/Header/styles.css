@@ -1,0 +1,8 @@
+.header{
+    display: flex;
+    justify-content: center;
+    color: #ccc;
+    height: 100px;
+    align-items: flex-end;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
