@@ -3,6 +3,7 @@
     justify-content: center;
     color: #ccc;
     height: 100px;
+    margin-bottom: 20px;
     align-items: flex-end;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   }

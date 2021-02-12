@@ -1,18 +1,16 @@
 .list-tasks{
     width: 90%;
-    margin: auto;
+    margin: 20px auto;
     max-height: 300px;
     overflow: hidden;
     overflow-y: auto;
 }
 
-.list-item {
+.no-tasks {
     display: flex;
-    justify-content: space-between;
-    margin: 20px 0;
-    padding-bottom: 5px;
-}
+    justify-content: center;
+    font-size: 18px;
+    color: #bbb;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 
-.list-item span{
-    color: #999;
 }
